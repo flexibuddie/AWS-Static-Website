@@ -2,7 +2,6 @@
 where to get a sample aws bucket policy for a static website...
 - jsfiddle.net/9y5ax0t6/ 
 
-
 {
   "Id": "Policy1569048588734",
   "Version": "2012-10-17",
