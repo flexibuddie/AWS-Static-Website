@@ -1,7 +1,6 @@
 # How to create AWS-Static-Website
 where to get a sample aws bucket policy for a static website...
 - jsfiddle.net/9y5ax0t6/ 
-- i suggest inaddition to keeping this in your notepads, keep a copy in your github account too for easy reference. also, when it comes to job interviews you mention it, it will convince your interviewers you have a lot to do with hands-on
 {
   "Id": "Policy1569048588734",
   "Version": "2012-10-17",
